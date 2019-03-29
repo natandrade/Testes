@@ -6,8 +6,11 @@
 
 ## Python
 [Algoritmos Prontos](https://github.com/TheAlgorithms/Python)
+
 [Exercicios 100 Dias](https://github.com/zhiwehu/Python-programming-exercises)
+
 [100-days-of-code](https://github.com/kallaway/100-days-of-code)
+
 [Exercicios 100 Dias ML](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
 ## Resumos Legais
