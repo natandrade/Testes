@@ -3,6 +3,8 @@
 
 [Wordcloud - Python](https://www.datacamp.com/community/tutorials/wordcloud-python)
 
+[Latex-fast?](https://github.com/Wookai/paper-tips-and-tricks)
+
 ## Jupyter
 [best-of-jupyter](https://github.com/NirantK/best-of-jupyter)
 
