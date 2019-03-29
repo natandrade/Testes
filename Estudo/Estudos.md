@@ -1,6 +1,8 @@
 ## Ferramentas Interessantes
 [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
+[Wordcloud - Python](https://www.datacamp.com/community/tutorials/wordcloud-python)
+
 ## Jupyter
 [best-of-jupyter](https://github.com/NirantK/best-of-jupyter)
 
